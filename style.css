@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
 
 body {
-    color: #130077;
-    background-color: hsl(38, 36%, 96%);
+    color: #fff;
+    background-color: #130077;
     font-family: 'Nunito', sans-serif;
     font-size: 1.1rem;
 }
@@ -13,7 +13,7 @@ body {
 }
 
 .grid div {
-    border-bottom: 0.2px solid #130077;
+    border-bottom: 0.2px solid #fff;
     padding: 0.2rem 0;
     height: 1.5rem;
 }
